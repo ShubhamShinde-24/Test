@@ -22,3 +22,20 @@
 ## Link
 
 [Visit Website](https:/www.google.com "Google")
+
+## Use `for` loop
+
+```javascript
+for(int i=0;i<=5;i++>)
+{
+var name = "Shubham";
+console.log(name)
+}
+```
+
+## Table
+
+| Name | Age | Blood Group|
+| --- | --- | --- |
+| Sam | 25 | O+ve |
+ 
