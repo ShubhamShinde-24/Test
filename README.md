@@ -4,9 +4,9 @@
 
 ![Test!](Image/download.png)
 
-<!-- # Add remote image
+# Add remote image (from chrome)
 
-![Test!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdFw4iygh8LR1Can6DehP26aNujaBYtUdRg&usqp=CAU) -->
+![Test!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdFw4iygh8LR1Can6DehP26aNujaBYtUdRg&usqp=CAU)
 <!-- 
 # Add image from github source
 
