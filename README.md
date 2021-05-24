@@ -7,4 +7,4 @@
 
 # Add local image
 
-![Test!](C:\Users\SAYALI\Desktop\Training\Git\Test\Image\download.png)
+![Test!](C:/Users/SAYALI/Desktop/Training/Git/Test/Image/download.png)
