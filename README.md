@@ -21,7 +21,7 @@
 
 ## Link
 
-[Visit Website](https:/www.google.com "Google")
+[Visit Website](https://www.google.com "Google")
 
 ## Use `for` loop
 
@@ -38,4 +38,3 @@ console.log(name)
 | Name | Age | Blood Group|
 | --- | --- | --- |
 | Sam | 25 | O+ve |
- 
