@@ -8,3 +8,7 @@
 # Add local image
 
 ![Test!](Image/download.png)
+
+# Add remote image
+
+![Test!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdFw4iygh8LR1Can6DehP26aNujaBYtUdRg&usqp=CAU)
