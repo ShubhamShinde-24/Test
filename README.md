@@ -1,8 +1,8 @@
 # Test README Image
 
-<!-- # Add local image
+# Add local image
 
-![Test!](Image/download.png) -->
+![Test!](Image/download.png)
 
 <!-- # Add remote image
 
